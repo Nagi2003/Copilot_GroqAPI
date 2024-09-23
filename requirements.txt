@@ -1,0 +1,10 @@
+streamlit
+groq
+pyaudio
+PyPDF2
+pyttsx3
+speechrecognition
+emoji
+python-dotenv
+whoosh
+googlesearch-python
